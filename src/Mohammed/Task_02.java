@@ -2,7 +2,7 @@ package Mohammed;
 
 public class Task_02 {
      /*
-     Good job!!! Here is the second one for you. Write a task for me too in my folder under the
+     Good job!!!! Here is the second one for you. Write a task for me too in my folder under the
      task_01 =)
 
     You are given an array of integers, and your task is to write a method to find the second-highest number in the array.
